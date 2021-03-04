@@ -1,1 +1,1 @@
-# Linear_regression
+# Linear_regression from scratch
